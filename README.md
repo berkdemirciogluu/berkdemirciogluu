@@ -7,7 +7,7 @@ Hi, I'm Berk Demircioglu!
 <br/>
 <p align="center">
 	<a href="https://github.com/berkdemirciogluu">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;.NET+Enthusiast;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
